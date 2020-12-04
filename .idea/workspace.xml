@@ -18,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kXyR5b8bMXp8vt5NfgjXvwABdB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -32,7 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/JAVA/JAVA/讲义+笔记+资料/5.JAVA笔记/JAVASE/算法4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../boying" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -154,6 +154,7 @@
       <workItem from="1606293251660" duration="1259000" />
       <workItem from="1606294541828" duration="5227000" />
       <workItem from="1606350863048" duration="3145000" />
+      <workItem from="1606974471225" duration="840000" />
     </task>
     <servers />
   </component>
@@ -181,10 +182,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="420" height="466" key="DebuggerActiveHint/0.0.1536.864@0.0.1536.864" timestamp="1606096117376" />
-    <state x="445" y="173" key="FileChooserDialogImpl" timestamp="1606215223919">
+    <state x="445" y="173" key="FileChooserDialogImpl" timestamp="1606975123488">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="445" y="173" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1606215223919" />
+    <state x="445" y="173" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1606975123488" />
     <state width="1493" height="277" key="GridCell.Tab.0.bottom" timestamp="1606355040487">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
