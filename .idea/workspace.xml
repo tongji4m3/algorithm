@@ -32,7 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../boying" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -155,6 +155,7 @@
       <workItem from="1606294541828" duration="5227000" />
       <workItem from="1606350863048" duration="3145000" />
       <workItem from="1606974471225" duration="840000" />
+      <workItem from="1608968024756" duration="1202000" />
     </task>
     <servers />
   </component>
