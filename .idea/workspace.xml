@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4705d9ce-8621-4764-8e9b-ba4f32907363" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/offer/chapter3/LinearProbingHashST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer/chapter3/SparseVector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer/chapter4/BreadthFirstPaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer/chapter4/DepthFirstPaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer/chapter4/DepthFirstSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer/chapter4/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer/chapter4/GraphMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -187,7 +190,7 @@
       <workItem from="1612827953251" duration="9573000" />
       <workItem from="1612839901569" duration="384000" />
       <workItem from="1612840304495" duration="933000" />
-      <workItem from="1612841262196" duration="7175000" />
+      <workItem from="1612841262196" duration="8829000" />
     </task>
     <servers />
   </component>
