@@ -1,14 +1,17 @@
 package offer;
 
-public class UF {
+public class WeightedQuickUnionUF {
     private int[] id;
+    private int[] size;
     private int count;
 
-    public UF(int N) {
+    public WeightedQuickUnionUF(int N) {
         this.count = N;
         id = new int[N];
+        size = new int[N];
         for (int i = 0; i < N; i++) {
             id[i] = i;
+            size[i] = 1;
         }
     }
 
@@ -31,9 +34,15 @@ public class UF {
         int pRoot = find(p);
         int qRoot = find(q);
 
-        if(pRoot == qRoot) return;
+        if (pRoot == qRoot) return;
 
-        id[pRoot] = qRoot;
+        if (size[pRoot] < size[qRoot]) {
+            id[pRoot] = qRoot;
+            size[qRoot] += size[pRoot];
+        } else {
+            id[qRoot] = pRoot;
+            size[pRoot] += size[qRoot];
+        }
         count--;
     }
 }
