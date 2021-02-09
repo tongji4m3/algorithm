@@ -1,4 +1,4 @@
-package offer.chapter4;
+package offer.chapter4.section1;
 
 public class GraphMethod {
     public static int degree(Graph G, int v) {

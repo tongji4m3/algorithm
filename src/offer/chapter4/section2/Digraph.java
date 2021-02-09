@@ -1,13 +1,13 @@
-package offer.chapter4;
+package offer.chapter4.section2;
 
 import offer.chapter1.Bag;
 
-public class Graph {
+public class Digraph {
     private final int V;
     private int E;
     private Bag<Integer>[] adj;
 
-    public Graph(int V) {
+    public Digraph(int V) {
         this.V = V;
         this.E = 0;
         adj = (Bag<Integer>[]) new Bag[V];
@@ -26,7 +26,6 @@ public class Graph {
 
     public void addEdge(int v, int w) {
         adj[v].add(w);
-        adj[w].add(v);
         E++;
     }
 

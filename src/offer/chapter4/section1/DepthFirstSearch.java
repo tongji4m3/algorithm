@@ -1,4 +1,4 @@
-package offer.chapter4;
+package offer.chapter4.section1;
 
 public class DepthFirstSearch {
     private boolean[] marked;
