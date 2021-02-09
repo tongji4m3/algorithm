@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4705d9ce-8621-4764-8e9b-ba4f32907363" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/offer/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer/Evaluate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer/Stack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter4/section3/graphAlgorithm/IndexMinPQ.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter4/section3/graphAlgorithm/KruskalMST.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter4/section3/graphAlgorithm/MinPQ.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter4/section3/graphAlgorithm/PrimMST.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter4/section4/DijkstraAllPairsSP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter4/section4/DijkstraSP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter4/section4/DirectedEdge.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter4/section4/EdgeWeightedDigraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/offer/Evaluate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/Evaluate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/offer/ResizingArrayStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/ResizingArrayStack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,14 +46,14 @@
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\12549\Desktop\Algorithm-fourth-edition\algorithm\src\chapter3\section3" />
+      <recent name="C:\Users\12549\Desktop\algorithm\src\chapter1\section5" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="chapter2.section3" />
       <recent name="chapter1.section5" />
       <recent name="chapter1.section4" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\12549\Desktop\Algorithm-fourth-edition\algorithm\src\chapter3\section3" />
-      <recent name="C:\Users\12549\Desktop\algorithm\src\chapter1\section5" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Evaluate">
@@ -184,7 +178,7 @@
       <workItem from="1606974471225" duration="840000" />
       <workItem from="1608968024756" duration="1202000" />
       <workItem from="1611248687087" duration="726000" />
-      <workItem from="1612827953251" duration="1437000" />
+      <workItem from="1612827953251" duration="2762000" />
     </task>
     <servers />
   </component>
