@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4705d9ce-8621-4764-8e9b-ba4f32907363" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/offer/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer/Evaluate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/section3/graphAlgorithm/IndexMinPQ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/section3/graphAlgorithm/KruskalMST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/section3/graphAlgorithm/MinPQ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/section3/graphAlgorithm/PrimMST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/section4/DijkstraAllPairsSP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/section4/DijkstraSP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/section4/DirectedEdge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/section4/EdgeWeightedDigraph.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +62,7 @@
       <recent name="C:\Users\12549\Desktop\algorithm\src\chapter1\section5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Array">
+  <component name="RunManager" selected="Application.Evaluate">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter1.section1.Array" />
       <module name="algorithm" />
@@ -66,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DepthFirstPaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter4.section1.graphAlgorithm.DepthFirstPaths" />
+    <configuration name="DijkstraSP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter4.section4.DijkstraSP" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter4.section1.graphAlgorithm.*" />
+          <option name="PATTERN" value="chapter4.section4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DijkstraSP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter4.section4.DijkstraSP" />
+    <configuration name="Evaluate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer.Evaluate" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter4.section4.*" />
+          <option name="PATTERN" value="offer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,24 +128,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Evaluate" />
         <item itemvalue="Application.Array" />
         <item itemvalue="Application.TrieST" />
         <item itemvalue="Application.DijkstraSP" />
         <item itemvalue="Application.KruskalMST" />
-        <item itemvalue="Application.DepthFirstPaths" />
       </list>
     </recent_temporary>
   </component>
@@ -172,11 +184,23 @@
       <workItem from="1606974471225" duration="840000" />
       <workItem from="1608968024756" duration="1202000" />
       <workItem from="1611248687087" duration="726000" />
+      <workItem from="1612827953251" duration="1437000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
