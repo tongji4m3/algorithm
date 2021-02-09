@@ -1,9 +1,10 @@
-package offer;
+package offer.chapter1;
 
 import java.util.Iterator;
 
-public class Stack<Item> implements Iterable<Item> {
+public class Queue<Item> implements Iterable<Item> {
     private Node first;
+    private Node last;
     private int N;
 
     private class Node {
@@ -15,25 +16,29 @@ public class Stack<Item> implements Iterable<Item> {
         return first == null;
     }
 
-    public int size() {
+    private int size() {
         return N;
     }
 
-    public void push(Item item) {
-        Node oldFirst = first;
-        first = new Node();
-        first.item = item;
-        first.next = oldFirst;
+    public void enqueue(Item item) {
+        Node oldLast = last;
+        last = new Node();
+        last.item = item;
+        last.next = null;
+
+        if (isEmpty()) first = last;
+        else oldLast.next = last;
+
         N++;
     }
 
-    public Item pop() {
+    public Item dequeue() {
         Item item = first.item;
         first = first.next;
+        if(isEmpty()) last = null;
         N--;
         return item;
     }
-
 
     @Override
     public Iterator<Item> iterator() {

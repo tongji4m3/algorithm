@@ -1,4 +1,4 @@
-package offer;
+package offer.chapter1;
 
 public class BinarySearch {
     //默认情况下，如果没有找到，那么hi对应元素第一个小于他，lo对应元素第一个大于他

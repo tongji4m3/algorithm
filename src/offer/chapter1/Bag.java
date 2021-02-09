@@ -1,4 +1,4 @@
-package offer;
+package offer.chapter1;
 
 import java.util.Iterator;
 
