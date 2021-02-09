@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4705d9ce-8621-4764-8e9b-ba4f32907363" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/offer/chapter3/SeparateChainingHashST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer/chapter3/SequentialSearchST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer/chapter3/LinearProbingHashST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer/chapter3/SparseVector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +23,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1kXyR5b8bMXp8vt5NfgjXvwABdB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -178,7 +187,7 @@
       <workItem from="1612827953251" duration="9573000" />
       <workItem from="1612839901569" duration="384000" />
       <workItem from="1612840304495" duration="933000" />
-      <workItem from="1612841262196" duration="4704000" />
+      <workItem from="1612841262196" duration="7175000" />
     </task>
     <servers />
   </component>
