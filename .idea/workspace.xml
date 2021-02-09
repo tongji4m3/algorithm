@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4705d9ce-8621-4764-8e9b-ba4f32907363" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/offer/chapter3/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer/chapter3/SeparateChainingHashST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer/chapter3/SequentialSearchST.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +178,7 @@
       <workItem from="1612827953251" duration="9573000" />
       <workItem from="1612839901569" duration="384000" />
       <workItem from="1612840304495" duration="933000" />
-      <workItem from="1612841262196" duration="4162000" />
+      <workItem from="1612841262196" duration="4704000" />
     </task>
     <servers />
   </component>
