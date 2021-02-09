@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4705d9ce-8621-4764-8e9b-ba4f32907363" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/offer/chapter2/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer/chapter2/Heap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer/chapter2/Insertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer/chapter2/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer/chapter2/MaxPQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer/chapter2/Merge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer/chapter2/Quick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer/chapter2/Selection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer/chapter2/Shell.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/offer/Bag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/chapter1/Bag.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/offer/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/chapter1/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/offer/Evaluate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/chapter1/Evaluate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/offer/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/chapter1/Queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/offer/ResizingArrayStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/chapter1/ResizingArrayStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/offer/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/chapter1/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/offer/ThreeSumFast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/chapter1/ThreeSumFast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/offer/TwoSumFast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/chapter1/TwoSumFast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/offer/UF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/chapter1/UF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/offer/WeightedQuickUnionUF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/chapter1/WeightedQuickUnionUF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer/chapter3/BST.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,7 +177,7 @@
       <workItem from="1612827953251" duration="9573000" />
       <workItem from="1612839901569" duration="384000" />
       <workItem from="1612840304495" duration="933000" />
-      <workItem from="1612841262196" duration="1877000" />
+      <workItem from="1612841262196" duration="4162000" />
     </task>
     <servers />
   </component>
