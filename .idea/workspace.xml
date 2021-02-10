@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4705d9ce-8621-4764-8e9b-ba4f32907363" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/offer/chapter4/section2/DepthFirstOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer/chapter4/section2/Digraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer/chapter4/section2/DirectedCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/offer/chapter4/section2/Topological.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer/chapter4/section3/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer/chapter4/section3/EdgeWeightedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer/chapter4/section3/KruskalMST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer/chapter4/section3/PrimMST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/offer/chapter4/section4/DirectedEdge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/offer/chapter4/BreadthFirstPaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/chapter4/section1/BreadthFirstPaths.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/offer/chapter4/DepthFirstPaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/chapter4/section1/DepthFirstPaths.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/offer/chapter4/DepthFirstSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/chapter4/section1/DepthFirstSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/offer/chapter4/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/chapter4/section1/Graph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/offer/chapter4/GraphMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/chapter4/section1/GraphMethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,11 +60,11 @@
       <recent name="C:\Users\12549\Desktop\algorithm\src\chapter1\section5" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="offer.chapter4.section4" />
       <recent name="offer.chapter2" />
       <recent name="offer" />
       <recent name="chapter2.section3" />
       <recent name="chapter1.section5" />
-      <recent name="chapter1.section4" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Heap">
@@ -137,17 +133,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Heap" />
@@ -195,6 +180,7 @@
       <workItem from="1612839901569" duration="384000" />
       <workItem from="1612840304495" duration="933000" />
       <workItem from="1612841262196" duration="11648000" />
+      <workItem from="1612914093141" duration="2880000" />
     </task>
     <servers />
   </component>
